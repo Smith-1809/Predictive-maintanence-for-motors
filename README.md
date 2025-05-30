@@ -1,6 +1,3 @@
-# Predictive-maintanence-for-motors
-
-
 # Motor Health Forecasting Using Predictive Analytics
 
 This project demonstrates a real-time predictive maintenance system for industrial motors using sensor monitoring, Arduino, and machine learning.
